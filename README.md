@@ -17,4 +17,4 @@ By the way, you are going to need `Fractions` package to run this script. To ins
 pip install Fraction
 ```
 
-https://user-images.githubusercontent.com/63163893/143617526-38fa5596-36e2-4d38-b999-691ab69e0a96.mp4
+![İdeal-gaz-yasası](https://user-images.githubusercontent.com/63163893/143617942-ac1d47b5-1aa3-409a-bdd8-17ac0395cea2.gif)
