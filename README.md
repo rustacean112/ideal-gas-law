@@ -12,8 +12,9 @@ It still on developing stage. That means you have to provide 4 infos (until i ad
 - What is the mass number of second gas?
 - What is the pipe length?
 
-By the way, you going to need `Fractions` package to run this script. To install `Fractions` package type:
+By the way, you are going to need `Fractions` package to run this script. To install `Fractions` package type:
 ```
 pip install Fraction
 ```
 
+https://user-images.githubusercontent.com/63163893/143617526-38fa5596-36e2-4d38-b999-691ab69e0a96.mp4
